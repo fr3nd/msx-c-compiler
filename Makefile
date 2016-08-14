@@ -1,7 +1,3 @@
-#
-# Makefile
-# Carles Amigó, 2016-08-13 13:37
-#
 
 all:
 	@openmsx \
